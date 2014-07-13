@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>إنتقل إلى المشكلة</ClickToJumpToProblem>
+	<ClickToJumpToProblem>إنتقال الى المشكلة</ClickToJumpToProblem>
 
   <NeedSawmill>بحاجة إلى نجارة</NeedSawmill>
   <NeedSawmillDesc>أنت بحاجة إلى نجارة لكي تقطع القطع الخشبية لقطع متعددة الإستخدام.\n\nيمكنك بناء نجارة خشبية أو إلكترونية.</NeedSawmillDesc>
