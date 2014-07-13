@@ -10,7 +10,7 @@
   <EquipStartingEquipmentDesc>لقد هبطت مع بعض الأسلحة. خذها من موقع هبوطك.\n\nلتزود مواطنيك بهذه الأسلحة أختر المواطن ومن ثم أنقر بالزر الأيمن على السلاح.</EquipStartingEquipmentDesc>
   
   <MentalBreakSoon>إضطراب نفسي متوقع قريباً</MentalBreakSoon>
-  <MentalBreakSoonDesc>هءلاء المواطنين بدأت تظهر عليهم حالات إضطراب نفسي:\n\n{0}\nحسن حالت هؤلاء المواطنين عما قريب قبل أن تتدهور حالتهم.</MentalBreakSoonDesc>
+  <MentalBreakSoonDesc>هؤلاء المواطنين بدأت تظهر عليهم حالات إضطراب نفسي:\n\n{0}\nحسن حالت هؤلاء المواطنين عما قريب قبل أن تتدهور حالتهم.</MentalBreakSoonDesc>
 
   <MentalBreakImminent>إضطراب نفسي محتم</MentalBreakImminent>
   <MentalBreakImminentDesc>iهؤلاء المواطنين في حالة إضطراب نفسي وهو محتم عما قريب:\n\n{0}</MentalBreakImminentDesc>
@@ -29,12 +29,12 @@
   <NeedDefensesDesc>تواجدت في هذه المنطقة لمدة طويلة. القراصنة سوف يلاحظون تواجدك وهجمون عليك قريباً\n\nجهز دفاعاتك.\n\nإبني بعض المدافع.</NeedDefensesDesc>
 
   <NeedDoctor>بحاجة لطبيب</NeedDoctor>
-  <NeedDoctorDesc>These patients are incapacitated in bed and hungry. They need to be fed, but you have no healthy colonists assigned to the Doctor work type.\n\n{0}\nAssign a healthy colonist to the Doctor work type.</NeedDoctorDesc>
+  <NeedDoctorDesc>هؤلاء المرضى عاجزين في السرير و جياع. هم بحاجةإلى التغذية. ولكن لايوجد لديك مستعمرين صحية تعيين للعمل الطبي.\n\n{0}\nعين مستعمر للعمل الطبي.</NeedDoctorDesc>
 
   <NeedMiner>بحاجة إلى عامل منجم</NeedMiner>
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMinerDesc>انت خططة بعض الصخور لتكون محفوره. ولاكن ليس لديك مستعمر يجيد التعدين.\n\nعين مستعمر لعمل التعدين.</NeedMinerDesc>
 
-  <NeedWarden>Need warden</NeedWarden>
+  <NeedWarden>تحتاج حارس</NeedWarden>
   <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
 
   <LowFood>كمية الطعام قليلة</LowFood>
@@ -43,45 +43,45 @@
   <NeedColonistBeds>بحاجة لسرر مستوطنين</NeedColonistBeds>
   <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.</NeedColonistBedsDesc>
 
-  <Starvation>Starvation</Starvation>
+  <Starvation>جوع شديد</Starvation>
   <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food. You'll need a food source like a nutrient paste dispenser and some food to feed it. Also, make sure they're not drafted.</StarvationDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
+  <Exhaustion>تعب شديد</Exhaustion>
   <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
 
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
+  <NeedFoodHopper>تحتاج قافز الطعام</NeedFoodHopper>
   <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Building needs power</BuildingNeedsPower>
-  <BuildingsNeedPower>Buildings need power</BuildingsNeedPower>
+  <BuildingNeedsPower>البناء بحاجة لطاقة</BuildingNeedsPower>
+  <BuildingsNeedPower>الأبنية بحاجة لطاقة</BuildingsNeedPower>
   <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
   <AndMore>and more</AndMore>
   
-  <NeedMealSource>Need meal source</NeedMealSource>
+  <NeedMealSource>تحتاج مصدر طعام</NeedMealSource>
   <NeedMealSourceDesc>You have no way of producing edible meals.\n\nBuild a nutrient paste dispenser or a cook stove.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Need home region</NeedHomeRegion>
+  <NeedHomeRegion>تحتاج منطقة لمنزل</NeedHomeRegion>
   <NeedHomeRegionDesc>You need to define a HOME REGION where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home region using the ZONES section of the ARCHITECT menu.</NeedHomeRegionDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
+  <NeedBatteries>تحتاج بطاريات</NeedBatteries>
   <NeedBatteriesDesc>You only have solar generators and no batteries. This means you'll lose power every time the sun goes down.\n\nBuild a battery or two to get you through the night.</NeedBatteriesDesc>
 
-  <NoTradingCapacity>No trading capacity</NoTradingCapacity>
+  <NoTradingCapacity>لا سعة لالتداول</NoTradingCapacity>
   <NoTradingCapacityDesc>You have no way of trading with passing ships.\n\nBuild a comms console.</NoTradingCapacityDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
+  <NeedResearchProject>تحتاج مشروع للبحث</NeedResearchProject>
   <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
 
-  <NeedDump>Need dump</NeedDump>
+  <NeedDump>تحتاج نفاية</NeedDump>
   <NeedDumpDesc>You have debris your colonists want to haul, but they have nowhere to take it.\n\nDesignate a stockpile and set its storage settings to accept debris.</NeedDumpDesc>
 
-  <NeedGrave>Need grave</NeedGrave>
+  <NeedGrave>تحتاج قبر</NeedGrave>
   <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
 
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
+  <ColonistsIdle>{0} المستعمرين متكاسلين</ColonistsIdle>
   <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
   
-  <TableNeedsChairs>Table needs chairs</TableNeedsChairs>
+  <TableNeedsChairs>الطاولة تحتاج كراسي</TableNeedsChairs>
   <TableNeedsChairsDesc>You have a table with no chairs next to it. Tables are useless unless people can sit at them.</TableNeedsChairsDesc>
   
   
