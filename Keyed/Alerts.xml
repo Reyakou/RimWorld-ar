@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>إنتقال الى المشكلة</ClickToJumpToProblem>
+	<ClickToJumpToProblem>إنتقل إلى المشكلة</ClickToJumpToProblem>
 
   <NeedSawmill>بحاجة إلى نجارة</NeedSawmill>
   <NeedSawmillDesc>أنت بحاجة إلى نجارة لكي تقطع القطع الخشبية لقطع متعددة الإستخدام.\n\nيمكنك بناء نجارة خشبية أو إلكترونية.</NeedSawmillDesc>
@@ -29,25 +29,25 @@
   <NeedDefensesDesc>تواجدت في هذه المنطقة لمدة طويلة. القراصنة سوف يلاحظون تواجدك وهجمون عليك قريباً\n\nجهز دفاعاتك.\n\nإبني بعض المدافع.</NeedDefensesDesc>
 
   <NeedDoctor>بحاجة لطبيب</NeedDoctor>
-  <NeedDoctorDesc>هؤلاء المرضى عاجزين في السرير و جياع. هم بحاجةإلى التغذية. ولكن لايوجد لديك مستعمرين صحية تعيين للعمل الطبي.\n\n{0}\nعين مستعمر للعمل الطبي.</NeedDoctorDesc>
+  <NeedDoctorDesc>هؤلاء المرضى عاجزين في السرير و جياع. هم بحاجةإلى التغذية. ولكن لايوجد لديك مستعمرين صحية تعيين للعمل الطبي.\n\n{0}\nعيين مستعمر للعمل الطبي.</NeedDoctorDesc>
 
   <NeedMiner>بحاجة إلى عامل منجم</NeedMiner>
-  <NeedMinerDesc>انت خططة بعض الصخور لتكون محفوره. ولاكن ليس لديك مستعمر يجيد التعدين.\n\nعين مستعمر لعمل التعدين.</NeedMinerDesc>
+  <NeedMinerDesc>انت خططة بعض الصخور لتكون محفوره. ولاكن ليس لديك مستعمر يجيد التعدين.\n\nعيين مستعمر لعمل التعدين.</NeedMinerDesc>
 
-  <NeedWarden>تحتاج حارس</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWarden>تحتاج مراقب</NeedWarden>
+  <NeedWardenDesc>لديك سجين. ولكن ليس لديك مستعمر يعمل كمراقب.\n\nعيين مستعمر لعمل الحارس.</NeedWardenDesc>
 
   <LowFood>كمية الطعام قليلة</LowFood>
-  <LowFoodDesc>You only have {0} nutrition worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFoodDesc>لديك فقط {0} يستحق التغذية من المواد الغذائية في المخازن. هاذا منخفض بشكل خطير.\n\nازرع او اشتر او اعثر او اقتل بعض المواد الغذائية.</LowFoodDesc>
 
   <NeedColonistBeds>بحاجة لسرر مستوطنين</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>لديك مستعمرين اكثر من الأسرة. شخص ما سيفتقر مكان للنوم.\n\nاما ان تصنع المزيد من الأسرة اوتغيير سرير السجين إلا سرير مستعمر.</NeedColonistBedsDesc>
 
   <Starvation>جوع شديد</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food. You'll need a food source like a nutrient paste dispenser and some food to feed it. Also, make sure they're not drafted.</StarvationDesc>
+  <StarvationDesc>هؤلاء المستعمرين يتضورون جوعا:\n\n{0}\nاعطهم بعض الطعام. ستحتاج ان تحصل على مصدر غذاء مثل مغذيات عجينة الصيدلي وبعض المواد الغذائية للإطعام علية. أيضا، تأكد من انها ليست مخطوطة.</StarvationDesc>
 
   <Exhaustion>تعب شديد</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <ExhaustionDesc>هؤلاء المستعمري متعبين ويحتاجون بعض الراحة:\n\n{0}\nاعطهم بعض الراحة. هم يحتاجون إلى سرير معلم لإستخدام المستعمرين. ايضا, تأكد بانها ليست مخطوطة.</ExhaustionDesc>
 
   <NeedFoodHopper>تحتاج قافز الطعام</NeedFoodHopper>
   <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
@@ -55,7 +55,7 @@
   <BuildingNeedsPower>البناء بحاجة لطاقة</BuildingNeedsPower>
   <BuildingsNeedPower>الأبنية بحاجة لطاقة</BuildingsNeedPower>
   <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
-  <AndMore>and more</AndMore>
+  <AndMore>و اكثر</AndMore>
   
   <NeedMealSource>تحتاج مصدر طعام</NeedMealSource>
   <NeedMealSourceDesc>You have no way of producing edible meals.\n\nBuild a nutrient paste dispenser or a cook stove.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
@@ -66,8 +66,8 @@
   <NeedBatteries>تحتاج بطاريات</NeedBatteries>
   <NeedBatteriesDesc>You only have solar generators and no batteries. This means you'll lose power every time the sun goes down.\n\nBuild a battery or two to get you through the night.</NeedBatteriesDesc>
 
-  <NoTradingCapacity>لا سعة لالتداول</NoTradingCapacity>
-  <NoTradingCapacityDesc>You have no way of trading with passing ships.\n\nBuild a comms console.</NoTradingCapacityDesc>
+  <NoTradingCapacity>لا سعة للتداول</NoTradingCapacity>
+  <NoTradingCapacityDesc>ليس لديك اي وسيلة للتداول مع السفن المارة.\n\nابن وحدة التداول.</NoTradingCapacityDesc>
 
   <NeedResearchProject>تحتاج مشروع للبحث</NeedResearchProject>
   <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
@@ -82,7 +82,7 @@
   <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
   
   <TableNeedsChairs>الطاولة تحتاج كراسي</TableNeedsChairs>
-  <TableNeedsChairsDesc>You have a table with no chairs next to it. Tables are useless unless people can sit at them.</TableNeedsChairsDesc>
+  <TableNeedsChairsDesc>لديك طاولة من دون كراسي بجانبة. الطاولات عديمة الفائدة مالم يتمكن الناس من الجلوس إليهم.</TableNeedsChairsDesc>
   
   
   
